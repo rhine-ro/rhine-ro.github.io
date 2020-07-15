@@ -1,0 +1,227 @@
+/* @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap'); */
+
+body {
+  background: #fafafa;
+  font-family: 'Lao Sangam MN', sans-serif;
+  color: #1a1a1a;
+  margin-top: 4.5rem;
+}
+
+/* .intro {
+  margin-bottom: 2rem;
+}
+
+.intro-work {
+  margin-bottom: 0.0rem;
+} */
+
+
+p {
+  font-size: 1rem;
+  font-family: 'Lao Sangam MN', sans-serif;
+  font-weight: 100;
+}
+
+small {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+
+a {
+  color: #1a1a1a;
+}
+
+h1 {
+  color: #fff;
+  display: inline-block;
+  font-size: 1.8rem;
+}
+
+h2 {
+  display: inline-block;
+  padding-left: 4px;
+  padding-right: 4px;
+  background-color: green;
+  color: #fafafa;
+  font-size: 1.4rem;
+
+}
+
+h3 {
+  padding: 1.8rem;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+h4 {
+  background-color: yellow;
+}
+
+
+.bg-light {
+  padding-top: 1.2rem;
+  background-color: #fafafa;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #757575;
+  background: #fafafa;
+}
+
+nav {
+  background-color: #fafafa;
+}
+
+.navbar-light .navbar-brand {
+  color: #000;
+  font-weight: 500;
+  font-size: 2rem;
+  font-family: 'Lao Sangam MN', serif;
+  padding-left: 3px;
+}
+
+.navbar-dark .navbar-brand {
+  /* padding-top: 1rem; */
+  color: #1a1a1a;
+  background: #fafafa;
+
+}
+
+.navbar-dark .navbar-brand:hover {
+  color: #1a1a1a;
+  background: #fafafa;
+
+}
+
+
+.site-header .navbar-nav .nav-link {
+  color: #000;
+  background: #fafafa;
+  font-size: 1.2rem;
+  padding-top: 1rem;
+
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #000;
+  background: #fafafa;
+  font-size: 1.2rem;
+  text-decoration: underline;
+
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+  color: green;
+  background: #fafafa;
+}
+
+.navbar-dark .navbar-toggler {
+  color: #1a1a1a;
+  background: #fafafa;
+}
+
+
+img {
+  /* padding-bottom: 0.6rem; */
+  width: 100%;
+  height: auto;
+}
+
+.box {
+  display: inline-block;
+  /* padding-bottom: 2rem; */
+  /* padding-top: 1.4rem;
+  padding-bottom: 1.4rem; */
+  padding: 1.2rem;
+
+}
+
+.feature {
+  border-style: none none none solid;
+  padding-left: 1rem;
+  border-width: 2px;
+
+}
+
+.work-item {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+/* .article-title {
+  color: #1a1a1a;
+} */
+
+.top {
+  padding-top: 1rem;
+}
+
+/* .box a:hover h4 {
+  display: block;
+  text-decoration: none;
+  color: #1a1a1a;
+  background-color: pink;
+} */
+
+
+a:hover {
+  text-decoration: none;
+  color: #1a1a1a;
+  background-color: yellow;
+}
+
+
+/* a.article-title:hover {
+
+  background-color: yellow;
+  text-decoration: none;
+} */
+
+/* .article-content {
+  white-space: pre-line;
+} */
+
+/* .article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+} */
+
+/* .article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+} */
+
+/* .article-metadata a:hover {
+  color: magenta;
+  text-decoration: none;
+} */
+
+/* .article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+} */
+
+/* .account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+} */
+
+/* .account-heading {
+  font-size: 2.5rem;
+} */
