@@ -184,6 +184,9 @@ a:hover {
   background-color: yellow;
 }
 
+h2 {
+  margin-bottom: 1.5rem;
+}
 
 /* a.article-title:hover {
 
